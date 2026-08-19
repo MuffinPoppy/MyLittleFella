@@ -1,5 +1,6 @@
 # MyLittleFella
-cat on taskbar is what this project is and Thanks to Elthen for sprite sheet. 
-This requair python to open it also need pillow extension but don't worry the code will install it when you run for the first time and pls leave the cat gif at the same position to make the program run normally.
-this may contain some bug and only working for window.
-made by Muffin.
+The cat on the taskbar in this project is for entertainment and for testing my programming skills. Special thanks to Elthen for the sprite sheet!
+Installation is straightforward, and the code is set to run automatically upon startup. Please keep the cat GIF in its original folder/position to ensure the program functions correctly.
+Note: There may still be a few bugs when running this program.
+It can be run on window only.
+Made by Muffin.
